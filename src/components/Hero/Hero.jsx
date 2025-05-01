@@ -3,7 +3,7 @@ import MountainPng from "../../assets/moon-surface-hd.png";
 
 const Hero = () => {
   return (
-    <div className="bg-black/1 h-full mt-8">
+    <div className="bg-black/1 h-full mt-12">
       <div className="h-full flex justify-center items-center p-4">
         <div className="container grid grid-cols-1 sm:grid-cols-2 gap-4">
           <div className="text-white space-y-4 lg:pr-36">
