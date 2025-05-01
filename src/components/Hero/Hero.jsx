@@ -21,7 +21,7 @@ const Hero = () => {
               LEARN MORE
             </button>
             <div className="relative z-20 flex mt-6" data-aos="fade-up" data-aos-delay="500">
-              <div className="flex gap-x-4">
+              <div className="flex flex-col sm:flex-row gap-4">
                 <img src="./1.png" alt="planet1" className="w-92 h-64 object-cover" />
                 <img src="./2.jpg" alt="planet2" className="w-92 h-64  object-cover" />
                 <img src="./3.jpg" alt="planet3" className="w-92 h-64  object-cover" />
